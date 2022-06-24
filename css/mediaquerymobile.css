@@ -22,18 +22,7 @@ header{
     text-align: center;
     font-size: 3em;
   }
-  /*BOTON DE CAMBIO DE FONDO*/
-  .cambiar {
-    border: none;
-    color:#117864;
-    font-size: 1.2rem;
-    font-weight: 500;
-}
 
-.cambiar:hover
-{
-    font-size: 1.3rem;
-}
 
 .comida{display:flex;justify-content: center;align-items: center;
 
